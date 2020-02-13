@@ -1,9 +1,3 @@
-# template
-template
-
-
-
-
 ## Title
 
 ## Abstract
