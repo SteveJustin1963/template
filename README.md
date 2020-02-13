@@ -1,5 +1,3 @@
-## Title
-
 ## Abstract
 
 ## Introduction 
