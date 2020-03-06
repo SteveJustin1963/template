@@ -12,7 +12,7 @@
 
 ## Method 
 
-## Test
+## Test Journal
 
 ## Report, figures, tables
 
