@@ -6,7 +6,7 @@
 
 ## Observe and Question 
 
-## Theory - testable
+## Theory - Testable
 
 ## Prediction
 
