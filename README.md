@@ -12,8 +12,6 @@
 
 ## Method 
 
-## Test Journal
-
 ## Report, figures, tables
 
 ## Results
@@ -28,3 +26,4 @@
 
 ## Iterate, new hypotheses or predictions
 
+## Journal
